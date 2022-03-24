@@ -1,0 +1,9 @@
+table{
+    font-family: Roboto;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: rgba(236, 238, 247, 0.05);
+    color: rgb(0, 0, 0);
+    border: 2px solid #0000;
+}
